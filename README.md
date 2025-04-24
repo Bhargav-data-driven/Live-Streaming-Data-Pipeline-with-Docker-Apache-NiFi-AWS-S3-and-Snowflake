@@ -1,4 +1,4 @@
-# Live-Streaming-Data-Pipeline-with-Docker-Apache-NiFi-AWS-S3-and-Snowflake
+# Live-Streaming-Data-Pipeline-with-Docker-Apache-NiFi-AWS-S3-and-Snowflake 
 ## Project Overview:
 This project demonstrates a real-time data pipeline using Dockerized environments, live data generation in Python, and seamless automation through Snowflake Tasks and Streams all orchestrated with Apache NiFi.The entire Docker-based environment (Apache NiFi, Jupyter Notebook, etc.) was set up and executed on an AWS EC2 instance. This provides a scalable and cost-effective solution for running our data streaming pipeline.
 
